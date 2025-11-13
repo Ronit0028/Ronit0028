@@ -1,7 +1,8 @@
 # Ronit Patra
-#### Student
+
 
 ## About Me
-- I am a Student
+- I am a recent graduate
 - I love Coding
-- Programing Language: Java
+- Programing Language: C++,Java,C
+
